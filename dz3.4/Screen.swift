@@ -37,7 +37,7 @@ class Product: CellActions{
             danet = true
         }else if dn == "net"{
             danet = false
-            print("Итого к оплате: \(bill)сом")
+            print("Итого к оплате: \(bill) сом")
         }else{
             print("Ваш ответ непонятен, но допустим это да)))")
         }
